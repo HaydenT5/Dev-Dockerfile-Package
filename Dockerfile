@@ -9,3 +9,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY dev.py .
 
 CMD ["python", "dev.py"]
+
+
+(Used AI to generate commands)
